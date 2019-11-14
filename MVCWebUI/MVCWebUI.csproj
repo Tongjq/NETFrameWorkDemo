@@ -143,7 +143,7 @@
     <Folder Include="App_Data\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary1\EFBLL.csproj">
+    <ProjectReference Include="..\EFBLL\EFBLL.csproj">
       <Project>{7830ae95-57f1-4120-955f-2452d1a9a9d4}</Project>
       <Name>EFBLL</Name>
     </ProjectReference>
