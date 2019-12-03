@@ -14,6 +14,7 @@ C:\Users\Junqiang\Desktop\MVC+EFDemo\ClassLibrary1\bin\Debug\EntityFramework.xml
 C:\Users\Junqiang\Desktop\MVC+EFDemo\ClassLibrary1\obj\Debug\EFBLL.csproj.CopyComplete
 C:\Users\Junqiang\Desktop\MVC+EFDemo\ClassLibrary1\obj\Debug\EFBLL.dll
 C:\Users\Junqiang\Desktop\MVC+EFDemo\ClassLibrary1\obj\Debug\EFBLL.pdb
+<<<<<<< HEAD
 D:\DemoCode\NETFrameWorkDemo\EFBLL\bin\Debug\EFBLL.dll
 D:\DemoCode\NETFrameWorkDemo\EFBLL\bin\Debug\EFBLL.pdb
 D:\DemoCode\NETFrameWorkDemo\EFBLL\bin\Debug\EFDAL.dll
@@ -31,3 +32,5 @@ D:\DemoCode\NETFrameWorkDemo\EFBLL\obj\Debug\EFBLL.csproj.CoreCompileInputs.cach
 D:\DemoCode\NETFrameWorkDemo\EFBLL\obj\Debug\EFBLL.csproj.CopyComplete
 D:\DemoCode\NETFrameWorkDemo\EFBLL\obj\Debug\EFBLL.dll
 D:\DemoCode\NETFrameWorkDemo\EFBLL\obj\Debug\EFBLL.pdb
+=======
+>>>>>>> 8b760e519247a77682695b6c1b8343f62f903523

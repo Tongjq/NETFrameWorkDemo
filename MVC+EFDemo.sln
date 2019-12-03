@@ -1,7 +1,12 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+<<<<<<< HEAD
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.902
+=======
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+>>>>>>> 8b760e519247a77682695b6c1b8343f62f903523
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFEntities", "EFEntities\EFEntities.csproj", "{B9A5FB98-A31F-425C-835E-92041E399B78}"
 EndProject

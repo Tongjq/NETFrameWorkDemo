@@ -2,8 +2,11 @@ C:\Users\Junqiang\Desktop\MVC+EFDemo\EFDTO\bin\Debug\EFDTO.dll
 C:\Users\Junqiang\Desktop\MVC+EFDemo\EFDTO\bin\Debug\EFDTO.pdb
 C:\Users\Junqiang\Desktop\MVC+EFDemo\EFDTO\obj\Debug\EFDTO.dll
 C:\Users\Junqiang\Desktop\MVC+EFDemo\EFDTO\obj\Debug\EFDTO.pdb
+<<<<<<< HEAD
 D:\DemoCode\NETFrameWorkDemo\EFDTO\bin\Debug\EFDTO.dll
 D:\DemoCode\NETFrameWorkDemo\EFDTO\bin\Debug\EFDTO.pdb
 D:\DemoCode\NETFrameWorkDemo\EFDTO\obj\Debug\EFDTO.csproj.CoreCompileInputs.cache
 D:\DemoCode\NETFrameWorkDemo\EFDTO\obj\Debug\EFDTO.dll
 D:\DemoCode\NETFrameWorkDemo\EFDTO\obj\Debug\EFDTO.pdb
+=======
+>>>>>>> 8b760e519247a77682695b6c1b8343f62f903523

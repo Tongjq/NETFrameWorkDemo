@@ -8,6 +8,7 @@ C:\Users\Junqiang\Desktop\MVC+EFDemo\EFEntities\bin\Debug\EntityFramework.SqlSer
 C:\Users\Junqiang\Desktop\MVC+EFDemo\EFEntities\obj\Debug\EFEntities.csproj.CopyComplete
 C:\Users\Junqiang\Desktop\MVC+EFDemo\EFEntities\obj\Debug\EFEntities.dll
 C:\Users\Junqiang\Desktop\MVC+EFDemo\EFEntities\obj\Debug\EFEntities.pdb
+<<<<<<< HEAD
 D:\DemoCode\NETFrameWorkDemo\EFEntities\bin\Debug\EFEntities.dll.config
 D:\DemoCode\NETFrameWorkDemo\EFEntities\bin\Debug\EFEntities.dll
 D:\DemoCode\NETFrameWorkDemo\EFEntities\bin\Debug\EFEntities.pdb
@@ -19,3 +20,5 @@ D:\DemoCode\NETFrameWorkDemo\EFEntities\obj\Debug\EFEntities.csproj.CoreCompileI
 D:\DemoCode\NETFrameWorkDemo\EFEntities\obj\Debug\EFEntities.csproj.CopyComplete
 D:\DemoCode\NETFrameWorkDemo\EFEntities\obj\Debug\EFEntities.dll
 D:\DemoCode\NETFrameWorkDemo\EFEntities\obj\Debug\EFEntities.pdb
+=======
+>>>>>>> 8b760e519247a77682695b6c1b8343f62f903523

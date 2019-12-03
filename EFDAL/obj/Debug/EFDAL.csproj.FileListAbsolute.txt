@@ -14,6 +14,7 @@ C:\Users\Junqiang\Desktop\MVC+EFDemo\EFDAL\bin\Debug\EntityFramework.SqlServer.x
 C:\Users\Junqiang\Desktop\MVC+EFDemo\EFDAL\obj\Debug\EFDAL.csproj.CopyComplete
 C:\Users\Junqiang\Desktop\MVC+EFDemo\EFDAL\obj\Debug\EFDAL.dll
 C:\Users\Junqiang\Desktop\MVC+EFDemo\EFDAL\obj\Debug\EFDAL.pdb
+<<<<<<< HEAD
 D:\DemoCode\NETFrameWorkDemo\EFDAL\bin\Debug\EFDAL.dll.config
 D:\DemoCode\NETFrameWorkDemo\EFDAL\bin\Debug\EFDAL.dll
 D:\DemoCode\NETFrameWorkDemo\EFDAL\bin\Debug\EFDAL.pdb
@@ -31,3 +32,5 @@ D:\DemoCode\NETFrameWorkDemo\EFDAL\obj\Debug\EFDAL.csproj.CoreCompileInputs.cach
 D:\DemoCode\NETFrameWorkDemo\EFDAL\obj\Debug\EFDAL.csproj.CopyComplete
 D:\DemoCode\NETFrameWorkDemo\EFDAL\obj\Debug\EFDAL.dll
 D:\DemoCode\NETFrameWorkDemo\EFDAL\obj\Debug\EFDAL.pdb
+=======
+>>>>>>> 8b760e519247a77682695b6c1b8343f62f903523
