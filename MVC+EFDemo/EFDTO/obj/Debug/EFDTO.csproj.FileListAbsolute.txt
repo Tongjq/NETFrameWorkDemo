@@ -1,4 +1,0 @@
-C:\Users\Junqiang\Desktop\MVC+EFDemo\EFDTO\bin\Debug\EFDTO.dll
-C:\Users\Junqiang\Desktop\MVC+EFDemo\EFDTO\bin\Debug\EFDTO.pdb
-C:\Users\Junqiang\Desktop\MVC+EFDemo\EFDTO\obj\Debug\EFDTO.dll
-C:\Users\Junqiang\Desktop\MVC+EFDemo\EFDTO\obj\Debug\EFDTO.pdb
